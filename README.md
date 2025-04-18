@@ -71,7 +71,7 @@ In scrape_to_sheets.py:
 
 ```python
 SPREADSHEET_NAME = 'Your Google Sheet Name'
-SHEET_NAME = 'Sheet1'
+SHEET_NAME = 'Your Sheet Name'
 ```
 Make sure these names match your actual spreadsheet and tab.
 
