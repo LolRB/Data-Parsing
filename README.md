@@ -55,9 +55,9 @@ pip install -r requirements.txt
 
 2. Create a new project and enable:
 
-- Google Sheets API
+    - Google Sheets API
 
-- Google Drive API
+    - Google Drive API
 
 3. Create a Service Account, generate a JSON key, and download it.
 
